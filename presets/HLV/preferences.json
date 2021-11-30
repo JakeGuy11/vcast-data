@@ -1,482 +1,544 @@
 {
-  "added_channels":
-  {
-    "Tokino Sora":
-    {
-      "priority":false,
-      "all_notifs":false,
-      "notif_flags":
-      [
+  "english_names": true,
+  "added_channels": {
+    "Tokino Sora": {
+      "priority": false,
+      "has_alt_lang": true,
+      "name_alt_lang": "ときのそら",
+      "all_notifs": false,
+      "notif_flags": [
+        
       ],
-      "image":"res/hlv/sora.png"
+      "image": "res/hlv/sora.png"
     },
-    "Roboco":
-    {
-      "priority":false,
-      "all_notifs":false,
-      "notif_flags":
-      [
+    "Roboco": {
+      "priority": false,
+      "has_alt_lang": true,
+      "name_alt_lang": "ロボ子",
+      "all_notifs": false,
+      "notif_flags": [
+        
       ],
-      "image":"res/hlv/roboco.png"
+      "image": "res/hlv/roboco.png"
     },
-    "Sakura Miko":
-    {
-      "priority":false,
-      "all_notifs":false,
-      "notif_flags":
-      [
+    "Sakura Miko": {
+      "priority": false,
+      "has_alt_lang": true,
+      "name_alt_lang": "さくらみこ",
+      "all_notifs": false,
+      "notif_flags": [
+        
       ],
-      "image":"res/hlv/miko.png"
+      "image": "res/hlv/miko.png"
     },
-    "Hoshimachi Suisei":
-    {
-      "priority":false,
-      "all_notifs":false,
-      "notif_flags":
-      [
+    "Hoshimachi Suisei": {
+      "priority": false,
+      "has_alt_lang": true,
+      "name_alt_lang": "星街すいせい",
+      "all_notifs": false,
+      "notif_flags": [
+        
       ],
-      "image":"res/hlv/suisei.png"
+      "image": "res/hlv/suisei.png"
     },
-    "AZKi":
-    {
-      "priority":false,
-      "all_notifs":false,
-      "notif_flags":
-      [
+    "AZKi": {
+      "priority": false,
+      "has_alt_lang": false,
+      "all_notifs": false,
+      "notif_flags": [
+        
       ],
-      "image":"res/hlv/azki.png"
+      "image": "res/hlv/azki.png"
     },
-    "Yozora Mel":
-    {
-      "priority":false,
-      "all_notifs":false,
-      "notif_flags":
-      [
+    "Yozora Mel": {
+      "priority": false,
+      "has_alt_lang": true,
+      "name_alt_lang": "夜空メル",
+      "all_notifs": false,
+      "notif_flags": [
+        
       ],
-      "image":"res/hlv/mel.png"
+      "image": "res/hlv/mel.png"
     },
-    "Shirakami Fubuki":
-    {
-      "priority":false,
-      "all_notifs":false,
-      "notif_flags":
-      [
+    "Shirakami Fubuki": {
+      "priority": false,
+      "has_alt_lang": true,
+      "name_alt_lang": "白上フブキ",
+      "all_notifs": false,
+      "notif_flags": [
+        
       ],
-      "image":"res/hlv/fubuki.png"
+      "image": "res/hlv/fubuki.png"
     },
-    "Natsuiro Matsuri":
-    {
-      "priority":false,
-      "all_notifs":false,
-      "notif_flags":
-      [
+    "Natsuiro Matsuri": {
+      "priority": false,
+      "has_alt_lang": true,
+      "name_alt_lang": "夏色まつり",
+      "all_notifs": false,
+      "notif_flags": [
+        
       ],
-      "image":"res/hlv/matsuri.png"
+      "image": "res/hlv/matsuri.png"
     },
-    "Aki Rosenthal":
-    {
-      "priority":false,
-      "all_notifs":false,
-      "notif_flags":
-      [
+    "Aki Rosenthal": {
+      "priority": false,
+      "has_alt_lang": true,
+      "name_alt_lang": "アキ・ローゼンタール",
+      "all_notifs": false,
+      "notif_flags": [
+        
       ],
-      "image":"res/hlv/akirose.png"
+      "image": "res/hlv/akirose.png"
     },
-    "Akai Haato":
-    {
-      "priority":false,
-      "all_notifs":false,
-      "notif_flags":
-      [
+    "Akai Haato": {
+      "priority": false,
+      "has_alt_lang": true,
+      "name_alt_lang": "赤井はあと",
+      "all_notifs": false,
+      "notif_flags": [
+        
       ],
-      "image":"res/hlv/haato.png"
+      "image": "res/hlv/haato.png"
     },
-    "Minato Aqua":
-    {
-      "priority":false,
-      "all_notifs":false,
-      "notif_flags":
-      [
+    "Minato Aqua": {
+      "priority": false,
+      "has_alt_lang": true,
+      "name_alt_lang": "湊あくあ",
+      "all_notifs": false,
+      "notif_flags": [
+        
       ],
-      "image":"res/hlv/aqua.png"
+      "image": "res/hlv/aqua.png"
     },
-    "Murasaki Shion":
-    {
-      "priority":false,
-      "all_notifs":false,
-      "notif_flags":
-      [
+    "Murasaki Shion": {
+      "priority": false,
+      "has_alt_lang": true,
+      "name_alt_lang": "紫咲シオン",
+      "all_notifs": false,
+      "notif_flags": [
+        
       ],
-      "image":"res/hlv/shion.png"
+      "image": "res/hlv/shion.png"
     },
-    "Nakiri Ayame":
-    {
-      "priority":false,
-      "all_notifs":false,
-      "notif_flags":
-      [
+    "Nakiri Ayame": {
+      "priority": false,
+      "has_alt_lang": true,
+      "name_alt_lang": "百鬼あやめ",
+      "all_notifs": false,
+      "notif_flags": [
+        
       ],
-      "image":"res/hlv/ayame.png"
+      "image": "res/hlv/ayame.png"
     },
-    "Yuzuki Choco":
-    {
-      "priority":false,
-      "all_notifs":false,
-      "notif_flags":
-      [
+    "Yuzuki Choco": {
+      "priority": false,
+      "has_alt_lang": true,
+      "name_alt_lang": "癒月ちょこ",
+      "all_notifs": false,
+      "notif_flags": [
+        
       ],
-      "image":"res/hlv/choco.png"
+      "image": "res/hlv/choco.png"
     },
-    "Oozora Subaru":
-    {
-      "priority":false,
-      "all_notifs":false,
-      "notif_flags":
-      [
+    "Oozora Subaru": {
+      "priority": false,
+      "has_alt_lang": true,
+      "name_alt_lang": "大空スバル",
+      "all_notifs": false,
+      "notif_flags": [
+        
       ],
-      "image":"res/hlv/subaru.png"
+      "image": "res/hlv/subaru.png"
     },
-    "Ookami Mio":
-    {
-      "priority":false,
-      "all_notifs":false,
-      "notif_flags":
-      [
+    "Ookami Mio": {
+      "priority": false,
+      "has_alt_lang": true,
+      "name_alt_lang": "大神ミオ",
+      "all_notifs": false,
+      "notif_flags": [
+        
       ],
-      "image":"res/hlv/mio.png"
+      "image": "res/hlv/mio.png"
     },
-    "Nekomata Okayu":
-    {
-      "priority":false,
-      "all_notifs":false,
-      "notif_flags":
-      [
+    "Nekomata Okayu": {
+      "priority": false,
+      "has_alt_lang": true,
+      "name_alt_lang": "猫又おかゆ",
+      "all_notifs": false,
+      "notif_flags": [
+        
       ],
-      "image":"res/hlv/okayu.png"
+      "image": "res/hlv/okayu.png"
     },
-    "Inugami Korone":
-    {
-      "priority":false,
-      "all_notifs":false,
-      "notif_flags":
-      [
+    "Inugami Korone": {
+      "priority": false,
+      "has_alt_lang": true,
+      "name_alt_lang": "戌神ころね",
+      "all_notifs": false,
+      "notif_flags": [
+        
       ],
-      "image":"res/hlv/korone.png"
+      "image": "res/hlv/korone.png"
     },
-    "Usada Pekora":
-    {
-      "priority":false,
-      "all_notifs":false,
-      "notif_flags":
-      [
+    "Usada Pekora": {
+      "priority": false,
+      "has_alt_lang": true,
+      "name_alt_lang": "兎田ぺこら",
+      "all_notifs": false,
+      "notif_flags": [
+        
       ],
-      "image":"res/hlv/pekora.png"
+      "image": "res/hlv/pekora.png"
     },
-    "Uruha Rushia":
-    {
-      "priority":false,
-      "all_notifs":false,
-      "notif_flags":
-      [
+    "Uruha Rushia": {
+      "priority": false,
+      "has_alt_lang": true,
+      "name_alt_lang": "潤羽るしあ",
+      "all_notifs": false,
+      "notif_flags": [
+        
       ],
-      "image":"res/hlv/rushia.png"
+      "image": "res/hlv/rushia.png"
     },
-    "Shiranui Flare":
-    {
-      "priority":false,
-      "all_notifs":false,
-      "notif_flags":
-      [
+    "Shiranui Flare": {
+      "priority": false,
+      "has_alt_lang": true,
+      "name_alt_lang": "不知火フレア",
+      "all_notifs": false,
+      "notif_flags": [
+        
       ],
-      "image":"res/hlv/flare.png"
+      "image": "res/hlv/flare.png"
     },
-    "Shirogane Noel":
-    {
-      "priority":false,
-      "all_notifs":false,
-      "notif_flags":
-      [
+    "Shirogane Noel": {
+      "priority": false,
+      "has_alt_lang": true,
+      "name_alt_lang": "白銀ノエル",
+      "all_notifs": false,
+      "notif_flags": [
+        
       ],
-      "image":"res/hlv/noel.png"
+      "image": "res/hlv/noel.png"
     },
-    "Houshou Marine":
-    {
-      "priority":false,
-      "all_notifs":false,
-      "notif_flags":
-      [
+    "Houshou Marine": {
+      "priority": false,
+      "has_alt_lang": true,
+      "name_alt_lang": "宝鐘マリン",
+      "all_notifs": false,
+      "notif_flags": [
+        
       ],
-      "image":"res/hlv/marine.png"
+      "image": "res/hlv/marine.png"
     },
-    "Amane Kanata":
-    {
-      "priority":false,
-      "all_notifs":false,
-      "notif_flags":
-      [
+    "Amane Kanata": {
+      "priority": false,
+      "has_alt_lang": true,
+      "name_alt_lang": "天音かなた",
+      "all_notifs": false,
+      "notif_flags": [
+        
       ],
-      "image":"res/hlv/kanata.png"
+      "image": "res/hlv/kanata.png"
     },
-    "Tsunomaki Watame":
-    {
-      "priority":false,
-      "all_notifs":false,
-      "notif_flags":
-      [
+    "Tsunomaki Watame": {
+      "priority": false,
+      "has_alt_lang": true,
+      "name_alt_lang": "角巻わため",
+      "all_notifs": false,
+      "notif_flags": [
+        
       ],
-      "image":"res/hlv/watame.png"
+      "image": "res/hlv/watame.png"
     },
-    "Tokoyami Towa":
-    {
-      "priority":false,
-      "all_notifs":false,
-      "notif_flags":
-      [
+    "Tokoyami Towa": {
+      "priority": false,
+      "has_alt_lang": true,
+      "name_alt_lang": "常闇トワ",
+      "all_notifs": false,
+      "notif_flags": [
+        
       ],
-      "image":"res/hlv/towa.png"
+      "image": "res/hlv/towa.png"
     },
-    "Himemori Luna":
-    {
-      "priority":false,
-      "all_notifs":false,
-      "notif_flags":
-      [
+    "Himemori Luna": {
+      "priority": false,
+      "has_alt_lang": true,
+      "name_alt_lang": "姫森ルーナ",
+      "all_notifs": false,
+      "notif_flags": [
+        
       ],
-      "image":"res/hlv/luna.png"
+      "image": "res/hlv/luna.png"
     },
-    "Kiryu Coco":
-    {
-      "priority":false,
-      "all_notifs":false,
-      "notif_flags":
-      [
+    "Kiryu Coco": {
+      "priority": false,
+      "has_alt_lang": true,
+      "name_alt_lang": "桐生ココ",
+      "all_notifs": false,
+      "notif_flags": [
+        
       ],
-      "image":"res/hlv/coco.png"
+      "image": "res/hlv/coco.png"
     },
-    "Yukihana Lamy":
-    {
-      "priority":false,
-      "all_notifs":false,
-      "notif_flags":
-      [
+    "Yukihana Lamy": {
+      "priority": false,
+      "has_alt_lang": true,
+      "name_alt_lang": "雪鼻ラミイ",
+      "all_notifs": false,
+      "notif_flags": [
+        
       ],
-      "image":"res/hlv/lamy.png"
+      "image": "res/hlv/lamy.png"
     },
-    "Momosuzu Nene":
-    {
-      "priority":false,
-      "all_notifs":false,
-      "notif_flags":
-      [
+    "Momosuzu Nene": {
+      "priority": false,
+      "has_alt_lang": true,
+      "name_alt_lang": "桃鈴ねね",
+      "all_notifs": false,
+      "notif_flags": [
+        
       ],
-      "image":"res/hlv/nene.png"
+      "image": "res/hlv/nene.png"
     },
-    "Shishiro Botan":
-    {
-      "priority":false,
-      "all_notifs":false,
-      "notif_flags":
-      [
+    "Shishiro Botan": {
+      "priority": false,
+      "has_alt_lang": true,
+      "name_alt_lang": "獅白ぼたん",
+      "all_notifs": false,
+      "notif_flags": [
+        
       ],
-      "image":"res/hlv/botan.png"
+      "image": "res/hlv/botan.png"
     },
-    "Omaru Polka":
-    {
-      "priority":false,
-      "all_notifs":false,
-      "notif_flags":
-      [
+    "Omaru Polka": {
+      "priority": false,
+      "has_alt_lang": true,
+      "name_alt_lang": "尾丸ポルカ",
+      "all_notifs": false,
+      "notif_flags": [
+        
       ],
-      "image":"res/hlv/polka.png"
+      "image": "res/hlv/polka.png"
     },
-    "Laplus Darkness":
-    {
-      "priority":false,
-      "all_notifs":false,
-      "notif_flags":
-      [
+    "Laplus Darkness": {
+      "priority": false,
+      "has_alt_lang": true,
+      "name_alt_lang": "ラプラス・ダークネス",
+      "all_notifs": false,
+      "notif_flags": [
+        
       ],
-      "image":"res/hlv/laplus.png"
+      "image": "res/hlv/laplus.png"
     },
-    "Takane Lui":
-    {
-      "priority":false,
-      "all_notifs":false,
-      "notif_flags":
-      [
+    "Takane Lui": {
+      "priority": false,
+      "has_alt_lang": true,
+      "name_alt_lang": "鷹嶺ルイ",
+      "all_notifs": false,
+      "notif_flags": [
+        
       ],
-      "image":"res/hlv/lui.png"
+      "image": "res/hlv/lui.png"
     },
-    "Hakui Koyori":
-    {
-      "priority":false,
-      "all_notifs":false,
-      "notif_flags":
-      [
+    "Hakui Koyori": {
+      "priority": false,
+      "has_alt_lang": true,
+      "name_alt_lang": "博衣こより",
+      "all_notifs": false,
+      "notif_flags": [
+        
       ],
-      "image":"res/hlv/koyori.png"
+      "image": "res/hlv/koyori.png"
     },
-    "Sakamata Chloe":
-    {
-      "priority":false,
-      "all_notifs":false,
-      "notif_flags":
-      [
+    "Sakamata Chloe": {
+      "priority": false,
+      "has_alt_lang": true,
+      "name_alt_lang": "沙花叉クロヱ",
+      "all_notifs": false,
+      "notif_flags": [
+        
       ],
-      "image":"res/hlv/chloe.png"
+      "image": "res/hlv/chloe.png"
     },
-    "Kazama Iroha":
-    {
-      "priority":false,
-      "all_notifs":false,
-      "notif_flags":
-      [
+    "Kazama Iroha": {
+      "priority": false,
+      "has_alt_lang": true,
+      "name_alt_lang": "風真いろは",
+      "all_notifs": false,
+      "notif_flags": [
+        
       ],
-      "image":"res/hlv/iroha.png"
+      "image": "res/hlv/iroha.png"
     },
-    "Ayunda Risu":
-    {
-      "priority":false,
-      "all_notifs":false,
-      "notif_flags":
-      [
+    "Ayunda Risu": {
+      "priority": false,
+      "has_alt_lang": true,
+      "name_alt_lang": "アユンダ・リス",
+      "all_notifs": false,
+      "notif_flags": [
+        
       ],
-      "image":"res/hlv/risu.png"
+      "image": "res/hlv/risu.png"
     },
-    "Moona Hoshinova":
-    {
-      "priority":false,
-      "all_notifs":false,
-      "notif_flags":
-      [
+    "Moona Hoshinova": {
+      "priority": false,
+      "has_alt_lang": true,
+      "name_alt_lang": "ムーナ・ホシノヴァ",
+      "all_notifs": false,
+      "notif_flags": [
+        
       ],
-      "image":"res/hlv/moona.png"
+      "image": "res/hlv/moona.png"
     },
-    "Airani Iofiteen":
-    {
-      "priority":false,
-      "all_notifs":false,
-      "notif_flags":
-      [
+    "Airani Iofiteen": {
+      "priority": false,
+      "has_alt_lang": true,
+      "name_alt_lang": "アイラニ・イオフィフティーン",
+      "all_notifs": false,
+      "notif_flags": [
+        
       ],
-      "image":"res/hlv/iofi.png"
+      "image": "res/hlv/iofi.png"
     },
-    "Kureiji Ollie":
-    {
-      "priority":false,
-      "all_notifs":false,
-      "notif_flags":
-      [
+    "Kureiji Ollie": {
+      "priority": false,
+      "has_alt_lang": true,
+      "name_alt_lang": "クレイジー・オリー",
+      "all_notifs": false,
+      "notif_flags": [
+        
       ],
-      "image":"res/hlv/ollie.png"
+      "image": "res/hlv/ollie.png"
     },
-    "Pavolia Reine":
-    {
-      "priority":false,
-      "all_notifs":false,
-      "notif_flags":
-      [
+    "Anya Melfissa": {
+      "priority": false,
+      "has_alt_lang": true,
+      "name_alt_lang": "アーニャ・メルフィッサ",
+      "all_notifs": false,
+      "notif_flags": [
+        
       ],
-      "image":"res/hlv/reine.png"
+      "image": "res/hlv/ollie.png"
     },
-    "Mori Calliope":
-    {
-      "priority":false,
-      "all_notifs":false,
-      "notif_flags":
-      [
+    "Pavolia Reine": {
+      "priority": false,
+      "has_alt_lang": true,
+      "name_alt_lang": "パヴォリア・レイネ",
+      "all_notifs": false,
+      "notif_flags": [
+        
       ],
-      "image":"res/hlv/mori.png"
+      "image": "res/hlv/reine.png"
     },
-    "Takanashi Kiara":
-    {
-      "priority":false,
-      "all_notifs":false,
-      "notif_flags":
-      [
+    "Mori Calliope": {
+      "priority": false,
+      "has_alt_lang": true,
+      "name_alt_lang": "森カリオペ",
+      "all_notifs": false,
+      "notif_flags": [
+        
       ],
-      "image":"res/hlv/kiara.png"
+      "image": "res/hlv/mori.png"
     },
-    "Ninomae Ina'nis":
-    {
-      "priority":false,
-      "all_notifs":false,
-      "notif_flags":
-      [
+    "Takanashi Kiara": {
+      "priority": false,
+      "has_alt_lang": true,
+      "name_alt_lang": "小鳥遊キアラ",
+      "all_notifs": false,
+      "notif_flags": [
+        
       ],
-      "image":"res/hlv/ina.png"
+      "image": "res/hlv/kiara.png"
     },
-    "Gawr Gura":
-    {
-      "priority":false,
-      "all_notifs":false,
-      "notif_flags":
-      [
+    "Ninomae Ina'nis": {
+      "priority": false,
+      "has_alt_lang": true,
+      "name_alt_lang": "一伊那尓栖",
+      "all_notifs": false,
+      "notif_flags": [
+        
       ],
-      "image":"res/hlv/gura.png"
+      "image": "res/hlv/ina.png"
     },
-    "Amelia Watson":
-    {
-      "priority":false,
-      "all_notifs":false,
-      "notif_flags":
-      [
+    "Gawr Gura": {
+      "priority": false,
+      "has_alt_lang": true,
+      "name_alt_lang": "がうる・ぐら",
+      "all_notifs": false,
+      "notif_flags": [
+        
       ],
-      "image":"res/hlv/watson.png"
+      "image": "res/hlv/gura.png"
     },
-    "IRyS":
-    {
-      "priority":false,
-      "all_notifs":false,
-      "notif_flags":
-      [
+    "Amelia Watson": {
+      "priority": false,
+      "has_alt_lang": true,
+      "name_alt_lang": "ワトソン・アメリア",
+      "all_notifs": false,
+      "notif_flags": [
+        
       ],
-      "image":"res/hlv/irys.png"
+      "image": "res/hlv/watson.png"
     },
-    "Tsukumo Sana":
-    {
-      "priority":false,
-      "all_notifs":false,
-      "notif_flags":
-      [
+    "IRyS": {
+      "priority": false,
+      "has_alt_lang": true,
+      "name_alt_lang": "アイリス",
+      "all_notifs": false,
+      "notif_flags": [
+        
       ],
-      "image":"res/hlv/sana.png"
+      "image": "res/hlv/irys.png"
     },
-    "Ceres Fauna":
-    {
-      "priority":false,
-      "all_notifs":false,
-      "notif_flags":
-      [
+    "Tsukumo Sana": {
+      "priority": false,
+      "has_alt_lang": true,
+      "name_alt_lang": "九十九佐命",
+      "all_notifs": false,
+      "notif_flags": [
+        
       ],
-      "image":"res/hlv/fauna.png"
+      "image": "res/hlv/sana.png"
     },
-    "Ouro Kronii":
-    {
-      "priority":false,
-      "all_notifs":false,
-      "notif_flags":
-      [
+    "Ceres Fauna": {
+      "priority": false,
+      "has_alt_lang": true,
+      "name_alt_lang": "セレス・ファウナ",
+      "all_notifs": false,
+      "notif_flags": [
+        
       ],
-      "image":"res/hlv/kronii.png"
+      "image": "res/hlv/fauna.png"
     },
-    "Nanashi Mumei":
-    {
-      "priority":false,
-      "all_notifs":false,
-      "notif_flags":
-      [
+    "Ouro Kronii": {
+      "priority": false,
+      "has_alt_lang": true,
+      "name_alt_lang": "オーロ・クロニー",
+      "all_notifs": false,
+      "notif_flags": [
+        
       ],
-      "image":"res/hlv/mumei.png"
+      "image": "res/hlv/kronii.png"
     },
-    "Hakos Baelz":
-    {
-      "priority":false,
-      "all_notifs":false,
-      "notif_flags":
-      [
+    "Nanashi Mumei": {
+      "priority": false,
+      "has_alt_lang": true,
+      "name_alt_lang": "七詩ムメイ",
+      "all_notifs": false,
+      "notif_flags": [
+        
       ],
-      "image":"res/hlv/baelz.png"
+      "image": "res/hlv/mumei.png"
+    },
+    "Hakos Baelz": {
+      "priority": false,
+      "has_alt_lang": true,
+      "name_alt_lang": "ハコス・ベールズ",
+      "all_notifs": false,
+      "notif_flags": [
+        
+      ],
+      "image": "res/hlv/baelz.png"
     }
   }
 }
