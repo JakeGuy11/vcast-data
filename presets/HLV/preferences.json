@@ -1,0 +1,482 @@
+{
+  "added_channels":
+  {
+    "Tokino Sora":
+    {
+      "priority":false,
+      "all_notifs":false,
+      "notif_flags":
+      [
+      ],
+      "image":"res/hlv/sora.png"
+    },
+    "Roboco":
+    {
+      "priority":false,
+      "all_notifs":false,
+      "notif_flags":
+      [
+      ],
+      "image":"res/hlv/roboco.png"
+    },
+    "Sakura Miko":
+    {
+      "priority":false,
+      "all_notifs":false,
+      "notif_flags":
+      [
+      ],
+      "image":"res/hlv/miko.png"
+    },
+    "Hoshimachi Suisei":
+    {
+      "priority":false,
+      "all_notifs":false,
+      "notif_flags":
+      [
+      ],
+      "image":"res/hlv/suisei.png"
+    },
+    "AZKi":
+    {
+      "priority":false,
+      "all_notifs":false,
+      "notif_flags":
+      [
+      ],
+      "image":"res/hlv/azki.png"
+    },
+    "Yozora Mel":
+    {
+      "priority":false,
+      "all_notifs":false,
+      "notif_flags":
+      [
+      ],
+      "image":"res/hlv/mel.png"
+    },
+    "Shirakami Fubuki":
+    {
+      "priority":false,
+      "all_notifs":false,
+      "notif_flags":
+      [
+      ],
+      "image":"res/hlv/fubuki.png"
+    },
+    "Natsuiro Matsuri":
+    {
+      "priority":false,
+      "all_notifs":false,
+      "notif_flags":
+      [
+      ],
+      "image":"res/hlv/matsuri.png"
+    },
+    "Aki Rosenthal":
+    {
+      "priority":false,
+      "all_notifs":false,
+      "notif_flags":
+      [
+      ],
+      "image":"res/hlv/akirose.png"
+    },
+    "Akai Haato":
+    {
+      "priority":false,
+      "all_notifs":false,
+      "notif_flags":
+      [
+      ],
+      "image":"res/hlv/haato.png"
+    },
+    "Minato Aqua":
+    {
+      "priority":false,
+      "all_notifs":false,
+      "notif_flags":
+      [
+      ],
+      "image":"res/hlv/aqua.png"
+    },
+    "Murasaki Shion":
+    {
+      "priority":false,
+      "all_notifs":false,
+      "notif_flags":
+      [
+      ],
+      "image":"res/hlv/shion.png"
+    },
+    "Nakiri Ayame":
+    {
+      "priority":false,
+      "all_notifs":false,
+      "notif_flags":
+      [
+      ],
+      "image":"res/hlv/ayame.png"
+    },
+    "Yuzuki Choco":
+    {
+      "priority":false,
+      "all_notifs":false,
+      "notif_flags":
+      [
+      ],
+      "image":"res/hlv/choco.png"
+    },
+    "Oozora Subaru":
+    {
+      "priority":false,
+      "all_notifs":false,
+      "notif_flags":
+      [
+      ],
+      "image":"res/hlv/subaru.png"
+    },
+    "Ookami Mio":
+    {
+      "priority":false,
+      "all_notifs":false,
+      "notif_flags":
+      [
+      ],
+      "image":"res/hlv/mio.png"
+    },
+    "Nekomata Okayu":
+    {
+      "priority":false,
+      "all_notifs":false,
+      "notif_flags":
+      [
+      ],
+      "image":"res/hlv/okayu.png"
+    },
+    "Inugami Korone":
+    {
+      "priority":false,
+      "all_notifs":false,
+      "notif_flags":
+      [
+      ],
+      "image":"res/hlv/korone.png"
+    },
+    "Usada Pekora":
+    {
+      "priority":false,
+      "all_notifs":false,
+      "notif_flags":
+      [
+      ],
+      "image":"res/hlv/pekora.png"
+    },
+    "Uruha Rushia":
+    {
+      "priority":false,
+      "all_notifs":false,
+      "notif_flags":
+      [
+      ],
+      "image":"res/hlv/rushia.png"
+    },
+    "Shiranui Flare":
+    {
+      "priority":false,
+      "all_notifs":false,
+      "notif_flags":
+      [
+      ],
+      "image":"res/hlv/flare.png"
+    },
+    "Shirogane Noel":
+    {
+      "priority":false,
+      "all_notifs":false,
+      "notif_flags":
+      [
+      ],
+      "image":"res/hlv/noel.png"
+    },
+    "Houshou Marine":
+    {
+      "priority":false,
+      "all_notifs":false,
+      "notif_flags":
+      [
+      ],
+      "image":"res/hlv/marine.png"
+    },
+    "Amane Kanata":
+    {
+      "priority":false,
+      "all_notifs":false,
+      "notif_flags":
+      [
+      ],
+      "image":"res/hlv/kanata.png"
+    },
+    "Tsunomaki Watame":
+    {
+      "priority":false,
+      "all_notifs":false,
+      "notif_flags":
+      [
+      ],
+      "image":"res/hlv/watame.png"
+    },
+    "Tokoyami Towa":
+    {
+      "priority":false,
+      "all_notifs":false,
+      "notif_flags":
+      [
+      ],
+      "image":"res/hlv/towa.png"
+    },
+    "Himemori Luna":
+    {
+      "priority":false,
+      "all_notifs":false,
+      "notif_flags":
+      [
+      ],
+      "image":"res/hlv/luna.png"
+    },
+    "Kiryu Coco":
+    {
+      "priority":false,
+      "all_notifs":false,
+      "notif_flags":
+      [
+      ],
+      "image":"res/hlv/coco.png"
+    },
+    "Yukihana Lamy":
+    {
+      "priority":false,
+      "all_notifs":false,
+      "notif_flags":
+      [
+      ],
+      "image":"res/hlv/lamy.png"
+    },
+    "Momosuzu Nene":
+    {
+      "priority":false,
+      "all_notifs":false,
+      "notif_flags":
+      [
+      ],
+      "image":"res/hlv/nene.png"
+    },
+    "Shishiro Botan":
+    {
+      "priority":false,
+      "all_notifs":false,
+      "notif_flags":
+      [
+      ],
+      "image":"res/hlv/botan.png"
+    },
+    "Omaru Polka":
+    {
+      "priority":false,
+      "all_notifs":false,
+      "notif_flags":
+      [
+      ],
+      "image":"res/hlv/polka.png"
+    },
+    "Laplus Darkness":
+    {
+      "priority":false,
+      "all_notifs":false,
+      "notif_flags":
+      [
+      ],
+      "image":"res/hlv/laplus.png"
+    },
+    "Takane Lui":
+    {
+      "priority":false,
+      "all_notifs":false,
+      "notif_flags":
+      [
+      ],
+      "image":"res/hlv/lui.png"
+    },
+    "Hakui Koyori":
+    {
+      "priority":false,
+      "all_notifs":false,
+      "notif_flags":
+      [
+      ],
+      "image":"res/hlv/koyori.png"
+    },
+    "Sakamata Chloe":
+    {
+      "priority":false,
+      "all_notifs":false,
+      "notif_flags":
+      [
+      ],
+      "image":"res/hlv/chloe.png"
+    },
+    "Kazama Iroha":
+    {
+      "priority":false,
+      "all_notifs":false,
+      "notif_flags":
+      [
+      ],
+      "image":"res/hlv/iroha.png"
+    },
+    "Ayunda Risu":
+    {
+      "priority":false,
+      "all_notifs":false,
+      "notif_flags":
+      [
+      ],
+      "image":"res/hlv/risu.png"
+    },
+    "Moona Hoshinova":
+    {
+      "priority":false,
+      "all_notifs":false,
+      "notif_flags":
+      [
+      ],
+      "image":"res/hlv/moona.png"
+    },
+    "Airani Iofiteen":
+    {
+      "priority":false,
+      "all_notifs":false,
+      "notif_flags":
+      [
+      ],
+      "image":"res/hlv/iofi.png"
+    },
+    "Kureiji Ollie":
+    {
+      "priority":false,
+      "all_notifs":false,
+      "notif_flags":
+      [
+      ],
+      "image":"res/hlv/ollie.png"
+    },
+    "Pavolia Reine":
+    {
+      "priority":false,
+      "all_notifs":false,
+      "notif_flags":
+      [
+      ],
+      "image":"res/hlv/reine.png"
+    },
+    "Mori Calliope":
+    {
+      "priority":false,
+      "all_notifs":false,
+      "notif_flags":
+      [
+      ],
+      "image":"res/hlv/mori.png"
+    },
+    "Takanashi Kiara":
+    {
+      "priority":false,
+      "all_notifs":false,
+      "notif_flags":
+      [
+      ],
+      "image":"res/hlv/kiara.png"
+    },
+    "Ninomae Ina'nis":
+    {
+      "priority":false,
+      "all_notifs":false,
+      "notif_flags":
+      [
+      ],
+      "image":"res/hlv/ina.png"
+    },
+    "Gawr Gura":
+    {
+      "priority":false,
+      "all_notifs":false,
+      "notif_flags":
+      [
+      ],
+      "image":"res/hlv/gura.png"
+    },
+    "Amelia Watson":
+    {
+      "priority":false,
+      "all_notifs":false,
+      "notif_flags":
+      [
+      ],
+      "image":"res/hlv/watson.png"
+    },
+    "IRyS":
+    {
+      "priority":false,
+      "all_notifs":false,
+      "notif_flags":
+      [
+      ],
+      "image":"res/hlv/irys.png"
+    },
+    "Tsukumo Sana":
+    {
+      "priority":false,
+      "all_notifs":false,
+      "notif_flags":
+      [
+      ],
+      "image":"res/hlv/sana.png"
+    },
+    "Ceres Fauna":
+    {
+      "priority":false,
+      "all_notifs":false,
+      "notif_flags":
+      [
+      ],
+      "image":"res/hlv/fauna.png"
+    },
+    "Ouro Kronii":
+    {
+      "priority":false,
+      "all_notifs":false,
+      "notif_flags":
+      [
+      ],
+      "image":"res/hlv/kronii.png"
+    },
+    "Nanashi Mumei":
+    {
+      "priority":false,
+      "all_notifs":false,
+      "notif_flags":
+      [
+      ],
+      "image":"res/hlv/mumei.png"
+    },
+    "Hakos Baelz":
+    {
+      "priority":false,
+      "all_notifs":false,
+      "notif_flags":
+      [
+      ],
+      "image":"res/hlv/baelz.png"
+    }
+  }
+}
