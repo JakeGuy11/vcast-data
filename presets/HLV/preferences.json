@@ -9,7 +9,7 @@
       "notif_flags": [
         
       ],
-      "image": "res/hlv/sora.png"
+      "image": "sora.png"
     },
     "Roboco": {
       "priority": false,
@@ -19,7 +19,7 @@
       "notif_flags": [
         
       ],
-      "image": "res/hlv/roboco.png"
+      "image": "roboco.png"
     },
     "Sakura Miko": {
       "priority": false,
@@ -29,7 +29,7 @@
       "notif_flags": [
         
       ],
-      "image": "res/hlv/miko.png"
+      "image": "miko.png"
     },
     "Hoshimachi Suisei": {
       "priority": false,
@@ -39,7 +39,7 @@
       "notif_flags": [
         
       ],
-      "image": "res/hlv/suisei.png"
+      "image": "suisei.png"
     },
     "AZKi": {
       "priority": false,
@@ -48,7 +48,7 @@
       "notif_flags": [
         
       ],
-      "image": "res/hlv/azki.png"
+      "image": "azki.png"
     },
     "Yozora Mel": {
       "priority": false,
@@ -58,7 +58,7 @@
       "notif_flags": [
         
       ],
-      "image": "res/hlv/mel.png"
+      "image": "mel.png"
     },
     "Shirakami Fubuki": {
       "priority": false,
@@ -68,7 +68,7 @@
       "notif_flags": [
         
       ],
-      "image": "res/hlv/fubuki.png"
+      "image": "fubuki.png"
     },
     "Natsuiro Matsuri": {
       "priority": false,
@@ -78,7 +78,7 @@
       "notif_flags": [
         
       ],
-      "image": "res/hlv/matsuri.png"
+      "image": "matsuri.png"
     },
     "Aki Rosenthal": {
       "priority": false,
@@ -88,7 +88,7 @@
       "notif_flags": [
         
       ],
-      "image": "res/hlv/akirose.png"
+      "image": "akirose.png"
     },
     "Akai Haato": {
       "priority": false,
@@ -98,7 +98,7 @@
       "notif_flags": [
         
       ],
-      "image": "res/hlv/haato.png"
+      "image": "haato.png"
     },
     "Minato Aqua": {
       "priority": false,
@@ -108,7 +108,7 @@
       "notif_flags": [
         
       ],
-      "image": "res/hlv/aqua.png"
+      "image": "aqua.png"
     },
     "Murasaki Shion": {
       "priority": false,
@@ -118,7 +118,7 @@
       "notif_flags": [
         
       ],
-      "image": "res/hlv/shion.png"
+      "image": "shion.png"
     },
     "Nakiri Ayame": {
       "priority": false,
@@ -128,7 +128,7 @@
       "notif_flags": [
         
       ],
-      "image": "res/hlv/ayame.png"
+      "image": "ayame.png"
     },
     "Yuzuki Choco": {
       "priority": false,
@@ -138,7 +138,7 @@
       "notif_flags": [
         
       ],
-      "image": "res/hlv/choco.png"
+      "image": "choco.png"
     },
     "Oozora Subaru": {
       "priority": false,
@@ -148,7 +148,7 @@
       "notif_flags": [
         
       ],
-      "image": "res/hlv/subaru.png"
+      "image": "subaru.png"
     },
     "Ookami Mio": {
       "priority": false,
@@ -158,7 +158,7 @@
       "notif_flags": [
         
       ],
-      "image": "res/hlv/mio.png"
+      "image": "mio.png"
     },
     "Nekomata Okayu": {
       "priority": false,
@@ -168,7 +168,7 @@
       "notif_flags": [
         
       ],
-      "image": "res/hlv/okayu.png"
+      "image": "okayu.png"
     },
     "Inugami Korone": {
       "priority": false,
@@ -178,7 +178,7 @@
       "notif_flags": [
         
       ],
-      "image": "res/hlv/korone.png"
+      "image": "korone.png"
     },
     "Usada Pekora": {
       "priority": false,
@@ -188,7 +188,7 @@
       "notif_flags": [
         
       ],
-      "image": "res/hlv/pekora.png"
+      "image": "pekora.png"
     },
     "Uruha Rushia": {
       "priority": false,
@@ -198,7 +198,7 @@
       "notif_flags": [
         
       ],
-      "image": "res/hlv/rushia.png"
+      "image": "rushia.png"
     },
     "Shiranui Flare": {
       "priority": false,
@@ -208,7 +208,7 @@
       "notif_flags": [
         
       ],
-      "image": "res/hlv/flare.png"
+      "image": "flare.png"
     },
     "Shirogane Noel": {
       "priority": false,
@@ -218,7 +218,7 @@
       "notif_flags": [
         
       ],
-      "image": "res/hlv/noel.png"
+      "image": "noel.png"
     },
     "Houshou Marine": {
       "priority": false,
@@ -228,7 +228,7 @@
       "notif_flags": [
         
       ],
-      "image": "res/hlv/marine.png"
+      "image": "marine.png"
     },
     "Amane Kanata": {
       "priority": false,
@@ -238,7 +238,7 @@
       "notif_flags": [
         
       ],
-      "image": "res/hlv/kanata.png"
+      "image": "kanata.png"
     },
     "Tsunomaki Watame": {
       "priority": false,
@@ -248,7 +248,7 @@
       "notif_flags": [
         
       ],
-      "image": "res/hlv/watame.png"
+      "image": "watame.png"
     },
     "Tokoyami Towa": {
       "priority": false,
@@ -258,7 +258,7 @@
       "notif_flags": [
         
       ],
-      "image": "res/hlv/towa.png"
+      "image": "towa.png"
     },
     "Himemori Luna": {
       "priority": false,
@@ -268,7 +268,7 @@
       "notif_flags": [
         
       ],
-      "image": "res/hlv/luna.png"
+      "image": "luna.png"
     },
     "Kiryu Coco": {
       "priority": false,
@@ -278,7 +278,7 @@
       "notif_flags": [
         
       ],
-      "image": "res/hlv/coco.png"
+      "image": "coco.png"
     },
     "Yukihana Lamy": {
       "priority": false,
@@ -288,7 +288,7 @@
       "notif_flags": [
         
       ],
-      "image": "res/hlv/lamy.png"
+      "image": "lamy.png"
     },
     "Momosuzu Nene": {
       "priority": false,
@@ -298,7 +298,7 @@
       "notif_flags": [
         
       ],
-      "image": "res/hlv/nene.png"
+      "image": "nene.png"
     },
     "Shishiro Botan": {
       "priority": false,
@@ -308,7 +308,7 @@
       "notif_flags": [
         
       ],
-      "image": "res/hlv/botan.png"
+      "image": "botan.png"
     },
     "Omaru Polka": {
       "priority": false,
@@ -318,7 +318,7 @@
       "notif_flags": [
         
       ],
-      "image": "res/hlv/polka.png"
+      "image": "polka.png"
     },
     "Laplus Darkness": {
       "priority": false,
@@ -328,7 +328,7 @@
       "notif_flags": [
         
       ],
-      "image": "res/hlv/laplus.png"
+      "image": "laplus.png"
     },
     "Takane Lui": {
       "priority": false,
@@ -338,7 +338,7 @@
       "notif_flags": [
         
       ],
-      "image": "res/hlv/lui.png"
+      "image": "lui.png"
     },
     "Hakui Koyori": {
       "priority": false,
@@ -348,7 +348,7 @@
       "notif_flags": [
         
       ],
-      "image": "res/hlv/koyori.png"
+      "image": "koyori.png"
     },
     "Sakamata Chloe": {
       "priority": false,
@@ -358,7 +358,7 @@
       "notif_flags": [
         
       ],
-      "image": "res/hlv/chloe.png"
+      "image": "chloe.png"
     },
     "Kazama Iroha": {
       "priority": false,
@@ -368,7 +368,7 @@
       "notif_flags": [
         
       ],
-      "image": "res/hlv/iroha.png"
+      "image": "iroha.png"
     },
     "Ayunda Risu": {
       "priority": false,
@@ -378,7 +378,7 @@
       "notif_flags": [
         
       ],
-      "image": "res/hlv/risu.png"
+      "image": "risu.png"
     },
     "Moona Hoshinova": {
       "priority": false,
@@ -388,7 +388,7 @@
       "notif_flags": [
         
       ],
-      "image": "res/hlv/moona.png"
+      "image": "moona.png"
     },
     "Airani Iofiteen": {
       "priority": false,
@@ -398,7 +398,7 @@
       "notif_flags": [
         
       ],
-      "image": "res/hlv/iofi.png"
+      "image": "iofi.png"
     },
     "Kureiji Ollie": {
       "priority": false,
@@ -408,7 +408,7 @@
       "notif_flags": [
         
       ],
-      "image": "res/hlv/ollie.png"
+      "image": "ollie.png"
     },
     "Anya Melfissa": {
       "priority": false,
@@ -418,7 +418,7 @@
       "notif_flags": [
         
       ],
-      "image": "res/hlv/ollie.png"
+      "image": "anya.png"
     },
     "Pavolia Reine": {
       "priority": false,
@@ -428,7 +428,7 @@
       "notif_flags": [
         
       ],
-      "image": "res/hlv/reine.png"
+      "image": "reine.png"
     },
     "Mori Calliope": {
       "priority": false,
@@ -438,7 +438,7 @@
       "notif_flags": [
         
       ],
-      "image": "res/hlv/mori.png"
+      "image": "mori.png"
     },
     "Takanashi Kiara": {
       "priority": false,
@@ -448,7 +448,7 @@
       "notif_flags": [
         
       ],
-      "image": "res/hlv/kiara.png"
+      "image": "kiara.png"
     },
     "Ninomae Ina'nis": {
       "priority": false,
@@ -458,7 +458,7 @@
       "notif_flags": [
         
       ],
-      "image": "res/hlv/ina.png"
+      "image": "ina.png"
     },
     "Gawr Gura": {
       "priority": false,
@@ -468,7 +468,7 @@
       "notif_flags": [
         
       ],
-      "image": "res/hlv/gura.png"
+      "image": "gura.png"
     },
     "Amelia Watson": {
       "priority": false,
@@ -478,7 +478,7 @@
       "notif_flags": [
         
       ],
-      "image": "res/hlv/watson.png"
+      "image": "watson.png"
     },
     "IRyS": {
       "priority": false,
@@ -488,7 +488,7 @@
       "notif_flags": [
         
       ],
-      "image": "res/hlv/irys.png"
+      "image": "irys.png"
     },
     "Tsukumo Sana": {
       "priority": false,
@@ -498,7 +498,7 @@
       "notif_flags": [
         
       ],
-      "image": "res/hlv/sana.png"
+      "image": "sana.png"
     },
     "Ceres Fauna": {
       "priority": false,
@@ -508,7 +508,7 @@
       "notif_flags": [
         
       ],
-      "image": "res/hlv/fauna.png"
+      "image": "fauna.png"
     },
     "Ouro Kronii": {
       "priority": false,
@@ -518,7 +518,7 @@
       "notif_flags": [
         
       ],
-      "image": "res/hlv/kronii.png"
+      "image": "kronii.png"
     },
     "Nanashi Mumei": {
       "priority": false,
@@ -528,7 +528,7 @@
       "notif_flags": [
         
       ],
-      "image": "res/hlv/mumei.png"
+      "image": "mumei.png"
     },
     "Hakos Baelz": {
       "priority": false,
@@ -538,7 +538,7 @@
       "notif_flags": [
         
       ],
-      "image": "res/hlv/baelz.png"
+      "image": "baelz.png"
     }
   }
 }
